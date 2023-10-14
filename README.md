@@ -1,2 +1,2 @@
-# Email-Sam-Spam-Detection
-It is an end to end code for the email spam classifier project
+# email-spam-classifier-new
+End to end code for the email spam classifier project
